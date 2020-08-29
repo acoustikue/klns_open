@@ -1,0 +1,41 @@
+{'code': '3281', 'name': '디지털신호처리(DIGITAL SIGNAL PROCESSING)', 'prof': '이기승', 'seat': '83/80'}
+{'code': '3282', 'name': '반도체공학(SEMICONDUCTOR ENGINEERING)', 'prof': '전종욱', 'seat': '62/60'}
+{'code': '3283', 'name': '반도체공학(SEMICONDUCTOR ENGINEERING)', 'prof': '전종욱', 'seat': '72/60'}
+{'code': '3285', 'name': '신호및시스템(SIGNALS AND SYSTEMS)', 'prof': '김준태', 'seat': '37/40'}
+{'code': '3286', 'name': '신호및시스템(SIGNALS AND SYSTEMS)', 'prof': '윤은철', 'seat': '56/40'}
+{'code': '3287', 'name': '신호및시스템(SIGNALS AND SYSTEMS)', 'prof': '윤은철', 'seat': '60/40'}
+{'code': '3288', 'name': '신호및시스템(SIGNALS AND SYSTEMS)', 'prof': '윤은철', 'seat': '65/40'}
+{'code': '3289', 'name': '임베디드시스템(EMBEDDED SYSTEM)', 'prof': '조용범, 유위', 'seat': '41/30'}
+{'code': '3290', 'name': '전자회로1(ELECTRONIC CIRCUITS 1)', 'prof': '김진태', 'seat': '58/60'}
+{'code': '3291', 'name': '전자회로1(ELECTRONIC CIRCUITS 1)', 'prof': '김진태', 'seat': '77/60'}
+{'code': '3292', 'name': '전자회로1(ELECTRONIC CIRCUITS 1)', 'prof': '채형일', 'seat': '35/60'}
+{'code': '3293', 'name': '전자회로1(ELECTRONIC CIRCUITS 1)', 'prof': '문국철', 'seat': '58/60'}
+{'code': '3294', 'name': '랜덤프로세스(RANDOM PROCESSES)', 'prof': '김선용', 'seat': '23/50'}
+{'code': '3295', 'name': '랜덤프로세스(RANDOM PROCESSES)', 'prof': '김선용', 'seat': '46/50'}
+{'code': '3296', 'name': '컴퓨터네트워크(COMPUTER NETWORK)', 'prof': '김영범', 'seat': '10/30'}
+{'code': '3297', 'name': '안테나이론및설계(ANTENNA THEORY AND DESIGN)', 'prof': '허정', 'seat': '55/55'}
+{'code': '3298', 'name': '태양광공학(PHOTOVOLTAIC ENGINEERING)', 'prof': '안형근', 'seat': '19/50'}
+{'code': '3299', 'name': '정보소자(ELECTRONIC DEVICE)', 'prof': '박기찬', 'seat': '62/50'}
+{'code': '3300', 'name': '전력전자(POWER ELECTRONICS)', 'prof': '조영훈', 'seat': '99/100'}
+{'code': '3301', 'name': '교류회로이론(AC CIRCUIT THEORY)', 'prof': '이두희', 'seat': '149/130'}
+{'code': '3302', 'name': '인공지능개론(INTRODUCTION TO ARTIFICIAL INTELLIGENCE)', 'prof': '김원준', 'seat': '54/50'}
+{'code': '3303', 'name': '전자기학1(ELECTROMAGNETICS  1)', 'prof': '허정', 'seat': '30/50'}
+{'code': '3304', 'name': '전자기학1(ELECTROMAGNETICS  1)', 'prof': '허정', 'seat': '50/50'}
+{'code': '3305', 'name': '전자기학1(ELECTROMAGNETICS  1)', 'prof': '목형수', 'seat': '47/50'}
+{'code': '3306', 'name': '전자기학1(ELECTROMAGNETICS  1)', 'prof': '목형수', 'seat': '48/50'}
+{'code': '3307', 'name': '통신신호처리(SIGNAL PROCESSING FOR COMMUNICATIONS)', 'prof': '김선용', 'seat': '30/30'}
+{'code': '3308', 'name': '무선통신공학(WIRELESS COMMUNICATION SYSTEMS)', 'prof': '김준태', 'seat': '31/30'}
+{'code': '3310', 'name': '제어시스템(CONTROL SYSTEMS)', 'prof': '지규인', 'seat': '30/70'}
+{'code': '3311', 'name': '제어시스템(CONTROL SYSTEMS)', 'prof': '윤춘기', 'seat': '53/40'}
+{'code': '3312', 'name': '전력경제(POWER SYSTEM ECONOMICS)', 'prof': '노재형', 'seat': '55/70'}
+{'code': '3313', 'name': '전력시스템공학(POWER SYSTEM ANALYSIS)', 'prof': '박종배', 'seat': '81/88'}
+{'code': '3314', 'name': '컴퓨터구조(COMPUTER ARCHITECTURE)', 'prof': '박성정', 'seat': '56/56'}
+{'code': '3315', 'name': '직류여자기기(DC EXCITED ELECTNIC MACHINE)', 'prof': '목형수', 'seat': '100/100'}
+{'code': '3316', 'name': '실시간운영체제(REAL-TIME OPERATING SYSTEMS)', 'prof': '박정근', 'seat': '27/40'}
+{'code': '3317', 'name': '임베디드컴퓨팅(EMBEDDED COMPUTING)', 'prof': '박성정', 'seat': '34/20'}
+{'code': '3319', 'name': '산학협력프로젝트(INDUSTRY-UNIVERSITY COOPERATION PROJECT)', 'prof': '박기찬, 구현철, 권영구, 김진태', 'seat': '9/20'}
+{'code': '3320', 'name': '산학협력프로젝트(INDUSTRY-UNIVERSITY COOPERATION PROJECT)', 'prof': '조용범, 구현철, 윤은철, 김영범', 'seat': '14/20'}
+{'code': '3321', 'name': '산학협력프로젝트(INDUSTRY-UNIVERSITY COOPERATION PROJECT)', 'prof': '김원준, 구현철, 이기승, 김선용', 'seat': '13/20'}
+{'code': '3322', 'name': '산학협력프로젝트(INDUSTRY-UNIVERSITY COOPERATION PROJECT)', 'prof': '전종욱, 허정, 박성정', 'seat': '22/20'}
+{'code': '4236', 'name': '전자기학1(ELECTROMAGNETICS  1)', 'prof': '구현철', 'seat': '29/70'}
+{'code': '4285', 'name': '컴퓨터구조(COMPUTER ARCHITECTURE)', 'prof': '유승수', 'seat': '24/30'}
